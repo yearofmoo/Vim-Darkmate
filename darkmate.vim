@@ -105,6 +105,7 @@ hi rubyBlockParamaterList   guifg=#FFFFFF ctermfg=15              gui=none
 
 " HTML Stuff
 hi htmlTag              guifg=#00c900 ctermfg=2                   gui=none
+hi htmlTagN             guifg=#00c900 ctermfg=2                   gui=none
 hi htmlSpecialTagName   guifg=#00c900 ctermfg=2                   gui=none
 hi htmlEndTag           guifg=#00c900 ctermfg=2                   gui=none
 hi htmlArg              guifg=#009cff ctermfg=39                  gui=none
