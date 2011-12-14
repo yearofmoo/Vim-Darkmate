@@ -30,7 +30,7 @@ if exists("syntax_on")
     syntax reset
 endif
 
-let g:colors_name = "Darkmate"
+let g:colors_name = "darkmate"
 
 " Line and Columns
 au WinLeave * set nocursorline nocursorcolumn
