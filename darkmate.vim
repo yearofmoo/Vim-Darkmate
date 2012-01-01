@@ -117,10 +117,10 @@ hi htmlCommentPart      guifg=#BBBBBB ctermfg=250                 gui=none
 hi htmlCSSStyleComment  guifg=#BBBBBB ctermfg=250                 gui=none
 
 " CSS Stuff
-hi cssTagName               guifg=#FFFFFF ctermfg=15                  gui=none
-hi cssAttributeSelector     guifg=#DDDDDD ctermfg=15                  gui=none
-hi cssSelectorOp            guifg=#DDDDDD ctermfg=15                  gui=none
-hi cssSelectorOp2           guifg=#DDDDDD ctermfg=15                  gui=none
+hi cssTagName               guifg=#FFFFFF ctermfg=15              gui=none
+hi cssAttributeSelector     guifg=#DDDDDD ctermfg=15              gui=none
+hi cssSelectorOp            guifg=#DDDDDD ctermfg=15              gui=none
+hi cssSelectorOp2           guifg=#DDDDDD ctermfg=15              gui=none
 
 hi cssColorProp         guifg=#FF9900 ctermfg=208                 gui=none
 hi cssBoxProp           guifg=#FF9900 ctermfg=208                 gui=none
@@ -139,10 +139,14 @@ hi cssTableProp         guifg=#FF9900 ctermfg=39                  gui=none
 hi cssFontProp          guifg=#FF9900 ctermfg=39                  gui=none
 hi cssFontAttr          guifg=#009cff ctermfg=39                  gui=none
 hi cssColorAttr         guifg=#009cff ctermfg=39                  gui=none
-hi cssGeneratedContentProp        guifg=#FF9900 ctermfg=39                  gui=none
+hi cssGeneratedContentProp        guifg=#FF9900 ctermfg=39        gui=none
 
 " PHP Stuff
 hi phpParent            guifg=#FFFFFF ctermfg=15                  gui=none
 hi phpInclude           guifg=#FF9900 ctermfg=208                 gui=none
 hi phpIdentifier        guifg=#00c900 ctermfg=2                   gui=none
 
+" XML Stuff
+hi xmlTag               guifg=#bb66ff ctermfg=42                  gui=none
+hi xmlTagName           guifg=#bb66ff ctermfg=42                  gui=none
+hi xmlEndTag            guifg=#bb66ff ctermfg=42                  gui=none
