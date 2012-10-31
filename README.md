@@ -1,4 +1,4 @@
-# darkmate
+# Vim-Darkmate
 
 Darkmate for vim is a colorscheme adopted from the gedit text editor.
 
@@ -6,17 +6,19 @@ Darkmate for vim is a colorscheme adopted from the gedit text editor.
 
 More details about the theme can be found here.
 
-http://www.yearofmoo.com/darkmate/
+http://www.yearofmoo.com/2011/04/darkmate.html
 
-## Vundle
+## Installation
 
-to use with vundle, include this into your .vimrc file:
+The theme can be installed by downloading the theme and placing it into the `~/.vim/colors` folder.
+
+You can also install it with vundle ... just include this into your .vimrc file:
 
 ```vimrc
 Bundle "yearofmoo/Vim-Darkmate"
 ```
 
-Followed by:
+Then within your `.vimrc` file include this:
 
 ```vimrc
 colorscheme darkmate
