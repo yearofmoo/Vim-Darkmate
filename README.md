@@ -15,7 +15,7 @@ The theme can be installed by downloading the theme and placing it into the `~/.
 You can also install it with vundle ... just include this into your .vimrc file:
 
 ```vimrc
-Bundle "yearofmoo/Vim-Darkmate"
+Plugin "yearofmoo/Vim-Darkmate"
 ```
 
 Then within your `.vimrc` file include this:
